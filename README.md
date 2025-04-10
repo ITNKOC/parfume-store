@@ -1,6 +1,5 @@
 # ChronoChic - Où l'Élégance Rencontre le Temps
 
-![ChronoChic Logo](src/assets/images/utopia.svg)
 
 ## Overview
 
